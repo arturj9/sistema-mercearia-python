@@ -1,0 +1,6 @@
+Frutas
+Verduras
+Frios
+Doces
+Salgados
+Massas
