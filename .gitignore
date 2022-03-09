@@ -1,3 +1,6 @@
 
 *.txt
 *.pyc
+*.txt
+__pycache__/DAO.cpython-39.pyc
+__pycache__/Models.cpython-39.pyc
