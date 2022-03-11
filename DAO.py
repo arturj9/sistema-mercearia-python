@@ -65,7 +65,7 @@ class DaoFornecedor:
         cls.fornecedores = list(map(lambda x: x.replace('\n', ''), cls.fornecedores))
         cls.fornecedores = list(map(lambda x: x.split('|'), cls.fornecedores))
         forn = []
-        for i in cls.estoque:
+        for i in cls.fornecedores:
             forn.append(Fornecedor(i[0], i[1], i[2], i[3]))
         return forn
 class DaoPessoa:
