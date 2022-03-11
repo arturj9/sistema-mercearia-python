@@ -1,0 +1,3 @@
+Ana|88912121212|12345432123|ana@gmail.com|Angicos/pf
+Lulu|88934343434|09876543212|lu@gmail.com|Sede/pf
+Aldo|88567676767|89765436754|al@gmail.com|Laginha/pf
