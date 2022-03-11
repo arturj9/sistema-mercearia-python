@@ -1,2 +1,2 @@
-# Sistema - Mercearia - Em Progresso
+# Sistema - Mercearia
  
