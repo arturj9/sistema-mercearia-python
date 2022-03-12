@@ -1,8 +1,0 @@
-<<<<<<< Updated upstream
-
-=======
-Massas
-Frutas
-Verduras
-Frios
->>>>>>> Stashed changes

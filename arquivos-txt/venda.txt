@@ -1,3 +1,0 @@
-Morango|5|Frutas|Lucas|Ana|10|11/03/2022
-Morango|5|Frutas|Lucas|Lulu|40|11/03/2022
-Pao|1|Massas|Samille|Aldo|5|11/03/2022
